@@ -1,0 +1,27 @@
+{
+  "name": "ebbs",
+  "version": "1.0.0",
+  "description": "Token Cap Table Analytics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fumember/ebbs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fumember/ebbs/issues"
+  },
+  "homepage": "https://github.com/fumember/ebbs#readme",
+  "dependencies": {
+    "@tanstack/react-query": "^5.66.8",
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "sqlite3": "^5.1.7",
+    "viem": "^2.23.3",
+    "wagmi": "^2.14.11"
+  }
+}
