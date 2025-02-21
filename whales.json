@@ -1,0 +1,218 @@
+[
+  {
+    "address": "0x732560fa1d1a76350b1a500155ba978031b53833",
+    "balance": 99999999999.99998,
+    "firstSeen": "2025-01-11T19:50:41.000Z",
+    "holdingDays": 40.087319872685605,
+    "txCount": 1,
+    "sends": 0
+  },
+  {
+    "address": "0xbc3c5ca50b6a215edf00815965485527f26f5da8",
+    "balance": 21686181084.32931,
+    "firstSeen": "2025-01-11T19:51:53.000Z",
+    "holdingDays": 40.08648653935227,
+    "txCount": 688,
+    "sends": 0
+  },
+  {
+    "address": "0x3fc91a3afd70395cd496c647d5a6cc9d4b2b7fad",
+    "balance": 77553972441.68259,
+    "firstSeen": "2025-01-11T19:52:01.000Z",
+    "holdingDays": 40.08639394675968,
+    "txCount": 770,
+    "sends": 0
+  },
+  {
+    "address": "0x4395780d9062d76c618c7c62659cc31f0d20214e",
+    "balance": 1825597553.2174697,
+    "firstSeen": "2025-01-11T19:57:35.000Z",
+    "holdingDays": 40.082528206018935,
+    "txCount": 170,
+    "sends": 0
+  },
+  {
+    "address": "0x111111125421ca6dc452d289314280a0f8842a65",
+    "balance": 7797809390.29494,
+    "firstSeen": "2025-01-11T19:59:19.000Z",
+    "holdingDays": 40.08132450231523,
+    "txCount": 176,
+    "sends": 0
+  },
+  {
+    "address": "0xc7d3ab410d49b664d03fe5b1038852ac852b1b29",
+    "balance": 6711460992.984803,
+    "firstSeen": "2025-01-11T20:02:39.000Z",
+    "holdingDays": 40.07900968750042,
+    "txCount": 93,
+    "sends": 0
+  },
+  {
+    "address": "0x11ddd59c33c73c44733b4123a86ea5ce57f6e854",
+    "balance": 7326365778.433906,
+    "firstSeen": "2025-01-11T20:02:49.000Z",
+    "holdingDays": 40.07889394675968,
+    "txCount": 184,
+    "sends": 0
+  },
+  {
+    "address": "0xdb6f1920a889355780af7570773609bd8cb1f498",
+    "balance": 1311698033.5160916,
+    "firstSeen": "2025-01-11T20:03:37.000Z",
+    "holdingDays": 40.07833839120412,
+    "txCount": 35,
+    "sends": 0
+  },
+  {
+    "address": "0x56e6983d59bf472ced0e63966a14d94a3a291589",
+    "balance": 8579859614.264293,
+    "firstSeen": "2025-01-11T20:03:51.000Z",
+    "holdingDays": 40.078176354167084,
+    "txCount": 133,
+    "sends": 0
+  },
+  {
+    "address": "0xb5d99a61a5d34e3edfeea052483f49f7a922e248",
+    "balance": 2273211205.254774,
+    "firstSeen": "2025-01-11T20:04:09.000Z",
+    "holdingDays": 40.07796802083375,
+    "txCount": 24,
+    "sends": 0
+  },
+  {
+    "address": "0xf2614a233c7c3e7f08b1f887ba133a13f1eb2c55",
+    "balance": 3994553456.1196976,
+    "firstSeen": "2025-01-11T20:05:11.000Z",
+    "holdingDays": 40.07725042824116,
+    "txCount": 100,
+    "sends": 0
+  },
+  {
+    "address": "0x1111111254eeb25477b68fb85ed929f73a960582",
+    "balance": 2096821218.813316,
+    "firstSeen": "2025-01-11T20:09:13.000Z",
+    "holdingDays": 40.07444951388847,
+    "txCount": 155,
+    "sends": 0
+  },
+  {
+    "address": "0xd7f1dd5d49206349cae8b585fcb0ce3d96f1696f",
+    "balance": 1565652327.7920892,
+    "firstSeen": "2025-01-11T20:23:57.000Z",
+    "holdingDays": 40.06421803240699,
+    "txCount": 179,
+    "sends": 0
+  },
+  {
+    "address": "0x00000000009726632680fb29d3f7a9734e3010e2",
+    "balance": 9652686897.116789,
+    "firstSeen": "2025-01-11T20:27:43.000Z",
+    "holdingDays": 40.06160229166625,
+    "txCount": 587,
+    "sends": 8
+  },
+  {
+    "address": "0x6ea77f83ec8693666866ece250411c974ab962a8",
+    "balance": 5827909026.03975,
+    "firstSeen": "2025-01-11T20:45:07.000Z",
+    "holdingDays": 40.04951895833291,
+    "txCount": 238,
+    "sends": 0
+  },
+  {
+    "address": "0x03a520b32c04bf3beef7beb72e919cf822ed34f1",
+    "balance": 5321392116.143286,
+    "firstSeen": "2025-01-11T21:14:15.000Z",
+    "holdingDays": 40.02928747685143,
+    "txCount": 77,
+    "sends": 0
+  },
+  {
+    "address": "0x618a9840691334ee8d24445a4ada4284bf42417d",
+    "balance": 1153101895.208085,
+    "firstSeen": "2025-01-11T21:29:49.000Z",
+    "holdingDays": 40.018477291666244,
+    "txCount": 19,
+    "sends": 0
+  },
+  {
+    "address": "0x19ceead7105607cd444f5ad10dd51356436095a1",
+    "balance": 1491334743.1677904,
+    "firstSeen": "2025-01-11T21:49:47.000Z",
+    "holdingDays": 40.0046115509255,
+    "txCount": 49,
+    "sends": 0
+  },
+  {
+    "address": "0x69135ce4cc73e6e34b46788c13fd0fd4d446dcc6",
+    "balance": 2398442845.594332,
+    "firstSeen": "2025-01-11T22:25:21.000Z",
+    "holdingDays": 39.97991247685143,
+    "txCount": 21,
+    "sends": 0
+  },
+  {
+    "address": "0x9008d19f58aabd9ed0d60971565aa8510560ab41",
+    "balance": 7539125508.504875,
+    "firstSeen": "2025-01-11T23:25:23.000Z",
+    "holdingDays": 39.938222662036615,
+    "txCount": 61,
+    "sends": 0
+  },
+  {
+    "address": "0xa0ba8ffebdc4952fe94edcc0d5263d1b9afbd9ed",
+    "balance": 1000000000,
+    "firstSeen": "2025-01-12T17:49:27.000Z",
+    "holdingDays": 39.17150969907365,
+    "txCount": 1,
+    "sends": 0
+  },
+  {
+    "address": "0xd688ab46dc476a05a093e4442d06ceb348adbda8",
+    "balance": 4301731603.401319,
+    "firstSeen": "2025-01-14T11:58:13.000Z",
+    "holdingDays": 37.415421736110694,
+    "txCount": 312,
+    "sends": 0
+  },
+  {
+    "address": "0xbe5aacfcab7d9ce477d657a726bb6ec4b1727aef",
+    "balance": 1000000000,
+    "firstSeen": "2025-01-29T22:03:41.000Z",
+    "holdingDays": 21.99495877314773,
+    "txCount": 2,
+    "sends": 0
+  },
+  {
+    "address": "0x6a57a0579e91a5b7ce9c2d08b93e1a9b995f974f",
+    "balance": 4528391524.326569,
+    "firstSeen": "2025-01-31T16:40:19.000Z",
+    "holdingDays": 20.219518958332912,
+    "txCount": 361,
+    "sends": 0
+  },
+  {
+    "address": "0x6ff5693b99212da76ad316178a184ab56d299b43",
+    "balance": 6984483086.964475,
+    "firstSeen": "2025-02-01T17:49:09.000Z",
+    "holdingDays": 19.17171803240699,
+    "txCount": 201,
+    "sends": 0
+  },
+  {
+    "address": "0x09350f89e2d7b6e96ba730783c2d76137b045fef",
+    "balance": 2326000650.2972383,
+    "firstSeen": "2025-02-12T01:28:03.000Z",
+    "holdingDays": 8.853037476851432,
+    "txCount": 128,
+    "sends": 0
+  },
+  {
+    "address": "0x59140f80e6146d3e23a3f44c3c47c9164e4b4a98",
+    "balance": 1201716878.96,
+    "firstSeen": "2025-02-16T16:22:23.000Z",
+    "holdingDays": 4.231972673609853,
+    "txCount": 2,
+    "sends": 1
+  }
+]
